@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4bd0b33ee369ae32afef4560e43b8450be9e7a9a">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/instant-run_3d8da800a779e223fb462a35439246423fb77d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_a4f90a66f85fea43e9060f20c56b404dee8a5640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_7591bba4e3b19c940a0c758c149ab24c886d64db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-24.2.1_410536b758c049dbc38350da131f4c87075c591a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/okhttp-2.7.2_ed481b0ccef0b7e44b986e5cfe1fd5a9944e4a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_bfd5a99242593c04770630b2ee4a505fe1f76a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.14_b8891af0d2d3f4518726c3b4990df537760b24c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/gson-2.6.1_0b577a7642ef02e67192f815cb87b71bb3e354d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_9b303847e42d31fd6d5709a783576f380ec54c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_ae75c20482cdb90bb341e22b29142db1f6ee3d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/glide-3.7.0_3772e100a55396425041a1d26664fc5fe6acf9b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e440280fa1956d614ae6a15cd631dc47b5daf67f">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-2.3.1_9980740d61cea72dc84c5b94821050fe85498dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_28b57fdccfbc53ba6c3374f09bae74a8af01f34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_0c271801f310def4d527e9d84e9ebe99845dce2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/glide-3.7.0_3772e100a55396425041a1d26664fc5fe6acf9b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e41b841611c363fd16cbc759292bd0fa8dc0daca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/converter-gson-2.0.2_526cf2794214a127de155c8f394423033f13b6b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f205ba5f15b7b1d65ae41c4ae40087a1d4825fe0">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-composer-2.3.1_8073c737a629255d1c16c759d65e6f84f37c3062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_d5d122ea8f99993edb9f99931b6891878c8f4333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_e68c2e39aa02f6ef45d5f31decd282280c40f9e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_410536b758c049dbc38350da131f4c87075c591a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_a4f90a66f85fea43e9060f20c56b404dee8a5640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ae75c20482cdb90bb341e22b29142db1f6ee3d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_420bf5151843b85d90a09e18fa736195b551f7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/retrofit-1.9.0_b4a1998247022dfdd91228fe1a5d673e594e39fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_e41b841611c363fd16cbc759292bd0fa8dc0daca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/twitter-text-1.13.0_8d599191b5efba7c847f2068bdc0d9a9014266dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_c157a5bd3419ffaf30b84286f1e2ddc4aeb079ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_a4f90a66f85fea43e9060f20c56b404dee8a5640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/okhttp-2.7.2_ed481b0ccef0b7e44b986e5cfe1fd5a9944e4a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_410536b758c049dbc38350da131f4c87075c591a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_75fa5a691e5650df616b160ad5dae816c4ec0be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/gson-2.6.1_0b577a7642ef02e67192f815cb87b71bb3e354d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_91ddf569b52ad06ce9828a5fe66c5e6ac54d08f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/twitter-text-1.13.0_8d599191b5efba7c847f2068bdc0d9a9014266dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e440280fa1956d614ae6a15cd631dc47b5daf67f">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.twitter.sdk.android-twitter-2.3.1_9980740d61cea72dc84c5b94821050fe85498dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_508e9dc230b67e6b67e1e6b348a417e51ef43286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/okio-1.6.0_7fbafca694cc383841d07f31052c90738814092b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f205ba5f15b7b1d65ae41c4ae40087a1d4825fe0">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.twitter.sdk.android-tweet-composer-2.3.1_8073c737a629255d1c16c759d65e6f84f37c3062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_75fa5a691e5650df616b160ad5dae816c4ec0be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/twitter-text-1.13.0_8d599191b5efba7c847f2068bdc0d9a9014266dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_0c271801f310def4d527e9d84e9ebe99845dce2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_508e9dc230b67e6b67e1e6b348a417e51ef43286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/retrofit-2.0.2_c157a5bd3419ffaf30b84286f1e2ddc4aeb079ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_28b57fdccfbc53ba6c3374f09bae74a8af01f34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f205ba5f15b7b1d65ae41c4ae40087a1d4825fe0">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-composer-2.3.1_8073c737a629255d1c16c759d65e6f84f37c3062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e41b841611c363fd16cbc759292bd0fa8dc0daca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_e68c2e39aa02f6ef45d5f31decd282280c40f9e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd2b777855fc2c66b034f80eb9b285d94c6da589">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.twitter.sdk.android-tweet-ui-2.3.1_c2a24de50197c65aa0e79e068a6c13dc07cb93d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_3828c63c5b4d4225cb65dd01b93e057445a87d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_508e9dc230b67e6b67e1e6b348a417e51ef43286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.14_b8891af0d2d3f4518726c3b4990df537760b24c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_a362c7041f516791230bd9d57735056ceaa70398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="391853015d3f0de395a828d32b13af4493699402">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b34e0e6467557633f9c16f403842163faa07b441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_91ddf569b52ad06ce9828a5fe66c5e6ac54d08f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/okhttp-3.2.0_7aa85b4b8c4124a7f5db6e1b236dc0e7c41d4fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_a362c7041f516791230bd9d57735056ceaa70398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-core-2.3.0_7cb0e2010f0e00d48b79e757206d005b7fb9c632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_75fa5a691e5650df616b160ad5dae816c4ec0be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_2b9db2441ba7a7c333d169af7f6fae8eedfb4f84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/okio-1.6.0_7fbafca694cc383841d07f31052c90738814092b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_c157a5bd3419ffaf30b84286f1e2ddc4aeb079ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/gson-2.6.1_0b577a7642ef02e67192f815cb87b71bb3e354d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e440280fa1956d614ae6a15cd631dc47b5daf67f">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-2.3.1_9980740d61cea72dc84c5b94821050fe85498dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_91ddf569b52ad06ce9828a5fe66c5e6ac54d08f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_0c271801f310def4d527e9d84e9ebe99845dce2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/io.fabric.sdk.android-fabric-1.3.14_b8891af0d2d3f4518726c3b4990df537760b24c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/glide-3.7.0_3772e100a55396425041a1d26664fc5fe6acf9b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_526cf2794214a127de155c8f394423033f13b6b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_d5d122ea8f99993edb9f99931b6891878c8f4333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd2b777855fc2c66b034f80eb9b285d94c6da589">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-ui-2.3.1_c2a24de50197c65aa0e79e068a6c13dc07cb93d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/support-annotations-24.2.1_7591bba4e3b19c940a0c758c149ab24c886d64db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-twitter-core-2.3.0_7cb0e2010f0e00d48b79e757206d005b7fb9c632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_b4a1998247022dfdd91228fe1a5d673e594e39fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2b9db2441ba7a7c333d169af7f6fae8eedfb4f84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3828c63c5b4d4225cb65dd01b93e057445a87d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/okio-1.6.0_7fbafca694cc383841d07f31052c90738814092b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_9b303847e42d31fd6d5709a783576f380ec54c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ae75c20482cdb90bb341e22b29142db1f6ee3d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_7aa85b4b8c4124a7f5db6e1b236dc0e7c41d4fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_420bf5151843b85d90a09e18fa736195b551f7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_28b57fdccfbc53ba6c3374f09bae74a8af01f34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_526cf2794214a127de155c8f394423033f13b6b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd2b777855fc2c66b034f80eb9b285d94c6da589">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.twitter.sdk.android-tweet-ui-2.3.1_c2a24de50197c65aa0e79e068a6c13dc07cb93d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_420bf5151843b85d90a09e18fa736195b551f7ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_d5d122ea8f99993edb9f99931b6891878c8f4333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="563798dcc5a2911c8d4275b3f1490e2e3936e800">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/instant-run_3d8da800a779e223fb462a35439246423fb77d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_7591bba4e3b19c940a0c758c149ab24c886d64db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_e68c2e39aa02f6ef45d5f31decd282280c40f9e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_bfd5a99242593c04770630b2ee4a505fe1f76a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3828c63c5b4d4225cb65dd01b93e057445a87d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2b9db2441ba7a7c333d169af7f6fae8eedfb4f84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_7aa85b4b8c4124a7f5db6e1b236dc0e7c41d4fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/2.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/com.twitter.sdk.android-twitter-core-2.3.0_7cb0e2010f0e00d48b79e757206d005b7fb9c632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_9b303847e42d31fd6d5709a783576f380ec54c46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/release/picasso-2.5.2_bfd5a99242593c04770630b2ee4a505fe1f76a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_a362c7041f516791230bd9d57735056ceaa70398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abc44281ed911b2a7c0a5113bfc97e9a07378da1">
+        <dex dex="/Users/ruben/Desktop/app-indexing-master/TwitterPost/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b34e0e6467557633f9c16f403842163faa07b441.jar" />
+    </item>
+
+</items>

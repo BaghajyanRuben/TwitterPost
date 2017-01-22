@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TwitterPost</string>
+    <string name="info_text">Choose an image from gallery or take a photo and post to Twitter</string>
+    <string name="choose_image">Choose an image </string>
+    <string name="take_photo">take a photo</string>
+    <string name="show_history">Show tweets history</string>
+    <string name="post">Post</string>
+    <string name="say_something">Say something</string>
+    <string name="no_network_massage">This application requires network access. Enable mobile network or Wi-Fi</string>
+    <string name="network_failed">Connection failed</string>
+    <string name="network_settings">Network Settings</string>
+    <string name="cancel">Cancel</string>
+</resources>
